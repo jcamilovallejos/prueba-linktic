@@ -1,11 +1,3 @@
-Por supuesto, aquí tienes los pasos en formato Markdown para copiar y pegar directamente en tu archivo README en GitHub:
-
-markdown
-Copy code
-# Nombre del Proyecto
-
-Descripción breve del proyecto.
-
 ## Instalación
 
 ### Clonar el repositorio
