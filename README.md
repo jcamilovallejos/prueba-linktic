@@ -3,8 +3,8 @@
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/jcamilovallejos/prueba-linktic.git
+cd prueba-linktic
 ```
 Instalar dependencias de Composer
 Asegúrate de tener Composer instalado. Luego, ejecuta:
