@@ -1,0 +1,34 @@
+# Laravel specific
+/node_modules
+/public/storage
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+
+# IDEs and Editors
+.idea
+*.code-workspace
+*.iml
+*.ipr
+*.iws
+*.sublime-workspace
+Thumbs.db
+.DS_Store
+
+# Logs and other generated files
+/storage/*.log
+/storage/debugbar
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/storage/logs/*
+
+# Misc
+*.sql
+*.sqlite
+*.zip
