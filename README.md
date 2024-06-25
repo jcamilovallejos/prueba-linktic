@@ -5,6 +5,7 @@
 ```bash
 git clone https://github.com/tu-usuario/tu-repositorio.git
 cd tu-repositorio
+```
 Instalar dependencias de Composer
 Asegúrate de tener Composer instalado. Luego, ejecuta:
 
